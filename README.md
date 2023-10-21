@@ -1,3 +1,3 @@
 # dio-java-basiico
 
-alterando o conteudo de um arquivoi de forma local
+alterando o conteudo de um arquivo de forma local
